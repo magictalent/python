@@ -1,0 +1,15 @@
+{
+    "image_points": [
+      [100, 50],    # top-left corner pixel (replace)
+      [1200, 50],   # top-right corner pixel (replace)
+      [1200, 700],  # bottom-right corner pixel (replace)
+      [100, 700]    # bottom-left corner pixel (replace)
+    ],
+    "world_points": [
+      [0, 0],       # top-left in meters
+      [105, 0],     # top-right in meters
+      [105, 68],    # bottom-right in meters
+      [0, 68]       # bottom-left in meters
+    ]
+  }
+  

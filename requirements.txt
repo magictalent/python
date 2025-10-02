@@ -1,0 +1,5 @@
+ultralytics==8.0.196   # YOLOv8
+opencv-python
+numpy
+deep-sort-realtime
+pandas
